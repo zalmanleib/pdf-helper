@@ -1,0 +1,5 @@
+{
+  "name": "PDF Master: Client-Side PDF Tools",
+  "description": "A powerful, 100% client-side PDF utility for merging, splitting, and reordering pages. No servers, no AI, no privacy concerns.",
+  "requestFramePermissions": []
+}
